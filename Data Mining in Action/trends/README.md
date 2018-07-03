@@ -1,4 +1,4 @@
- data_5/MachineTranslation.pdf# Syllabus
+# Syllabus
 
 ## Week 0. Вступительное задание
 
