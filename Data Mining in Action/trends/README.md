@@ -1,4 +1,4 @@
-# Syllabus
+data_5/MachineTranslation.pdf# Syllabus
 
 ## Week 0. Вступительное задание
 
@@ -32,9 +32,9 @@
 ## Week 5. Машинный перевод. Классическая модель seq2seq. Seq2seq + attention. Attention. Без обучающей выборки. Transfer learning 
  
 * [Notes](Lections/1_Trends_05.pdf)
-* [Homework](2018/data_5) 
+* [MachineTranslation Homework](2018/data_5/MachineTranslation.pdf) 
 
 ## Week 6. Super-resolution. Texture Synthesis. Style Transfer. Conditional Generation. PixelRNN и PixelCNN 
  
 * [Notes](Lections/1_Trends_06.pdf)
-* [Homework](2018/data_6) 
+* [Presentation](2018/data_6/seminar_6.pptx) 
