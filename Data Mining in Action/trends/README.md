@@ -42,4 +42,4 @@
 ## Дополнительный полезный материал
  
 * [Материалы курса "Глубинное обучение", прочитанного на ФКН ВШЭ весной 2018г.](https://github.com/aosokin/DL_CSHSE_spring2018)
-* [Введение | Глубокие нейронные сети на Python](https://www.youtube.com/watch?v=GX7qxV5nh5o&list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_) 
+* [Глубокие нейронные сети на Python](https://www.youtube.com/watch?v=GX7qxV5nh5o&list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_) 
