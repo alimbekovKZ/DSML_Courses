@@ -3,7 +3,7 @@
 
 # Deep Learning Course (Spring 2019)
 
-[ ![Idiap's logo][1]][2] [ ![EPFL's logo][3]][4]
+## [Old Version With Video - Deep Learning Course (Spring 2018)][139]
 
 You can find here [slides][5] and a [virtual machine][6] for the course [EE-559 "Deep Learning"][7], taught by [François Fleuret][8] at [EPFL][9]. This course covers the main deep learning tools and theoretical results, with examples in the [PyTorch][10] framework. **Note that these slides are still work in progress at the moment.**
 
@@ -345,5 +345,5 @@ More simply: I am okay with this material being used for regular academic teachi
 [136]: http://yann.lecun.com/exdb/mnist/
 [137]: https://www.cs.toronto.edu/~kriz/cifar.html
 [138]: https://fleuret.org/by-nc-sa-4.0.txt
-
+[139]: https://github.com/alimbekovKZ/DSML_Courses/blob/master/EE-559%20%E2%80%93%20Deep%20Learning/README_OLD.md
   
